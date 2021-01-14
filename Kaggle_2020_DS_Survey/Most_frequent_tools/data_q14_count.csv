@@ -1,0 +1,13 @@
+DV_Library,Q14
+ Matplotlib ,12343
+ Seaborn ,8822
+ Plotly / Plotly Express ,4131
+ Ggplot / ggplot2 ,4121
+ Shiny ,1138
+ D3 js ,830
+ Altair ,234
+ Bokeh ,921
+ Geoplotlib ,851
+ Leaflet / Folium ,597
+None,1898
+Other,566
