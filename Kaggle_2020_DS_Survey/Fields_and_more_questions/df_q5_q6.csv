@@ -1,0 +1,92 @@
+group,variable,value
+Business Analyst,0 years,96
+Business Analyst,< 1 years,190
+Business Analyst,1-2 years,156
+Business Analyst,3-5 years,150
+Business Analyst,5-10 years,84
+Business Analyst,10-20 years,56
+Business Analyst,20+ years,54
+Currently not employed,0 years,163
+Currently not employed,< 1 years,480
+Currently not employed,1-2 years,407
+Currently not employed,3-5 years,318
+Currently not employed,5-10 years,147
+Currently not employed,10-20 years,69
+Currently not employed,20+ years,61
+DBA/Database Engineer,0 years,4
+DBA/Database Engineer,< 1 years,9
+DBA/Database Engineer,1-2 years,22
+DBA/Database Engineer,3-5 years,16
+DBA/Database Engineer,5-10 years,21
+DBA/Database Engineer,10-20 years,27
+DBA/Database Engineer,20+ years,26
+Data Analyst,0 years,93
+Data Analyst,< 1 years,288
+Data Analyst,1-2 years,423
+Data Analyst,3-5 years,357
+Data Analyst,5-10 years,160
+Data Analyst,10-20 years,85
+Data Analyst,20+ years,51
+Data Engineer,0 years,12
+Data Engineer,< 1 years,31
+Data Engineer,1-2 years,62
+Data Engineer,3-5 years,113
+Data Engineer,5-10 years,83
+Data Engineer,10-20 years,93
+Data Engineer,20+ years,38
+Data Scientist,0 years,47
+Data Scientist,< 1 years,247
+Data Scientist,1-2 years,460
+Data Scientist,3-5 years,743
+Data Scientist,5-10 years,584
+Data Scientist,10-20 years,355
+Data Scientist,20+ years,223
+Machine Learning Engineer,0 years,23
+Machine Learning Engineer,< 1 years,130
+Machine Learning Engineer,1-2 years,237
+Machine Learning Engineer,3-5 years,297
+Machine Learning Engineer,5-10 years,201
+Machine Learning Engineer,10-20 years,116
+Machine Learning Engineer,20+ years,66
+Other,0 years,214
+Other,< 1 years,370
+Other,1-2 years,334
+Other,3-5 years,266
+Other,5-10 years,178
+Other,10-20 years,168
+Other,20+ years,190
+Product/Project Manager,0 years,76
+Product/Project Manager,< 1 years,97
+Product/Project Manager,1-2 years,94
+Product/Project Manager,3-5 years,104
+Product/Project Manager,5-10 years,97
+Product/Project Manager,10-20 years,113
+Product/Project Manager,20+ years,105
+Research Scientist,0 years,55
+Research Scientist,< 1 years,95
+Research Scientist,1-2 years,139
+Research Scientist,3-5 years,221
+Research Scientist,5-10 years,235
+Research Scientist,10-20 years,232
+Research Scientist,20+ years,190
+Software Engineer,0 years,27
+Software Engineer,< 1 years,94
+Software Engineer,1-2 years,285
+Software Engineer,3-5 years,502
+Software Engineer,5-10 years,431
+Software Engineer,10-20 years,343
+Software Engineer,20+ years,277
+Statistician,0 years,21
+Statistician,< 1 years,43
+Statistician,1-2 years,54
+Statistician,5-10 years,34
+Statistician,3-5 years,61
+Statistician,10-20 years,36
+Statistician,20+ years,38
+Student,0 years,293
+Student,< 1 years,1239
+Student,1-2 years,1832
+Student,3-5 years,1398
+Student,5-10 years,297
+Student,10-20 years,58
+Student,20+ years,10
