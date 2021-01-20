@@ -1,0 +1,91 @@
+Q4,Q5,0
+Bachelors ,Business Analyst,235
+Bachelors ,Unemployed currently,706
+Bachelors ,DBA/Database Engineer,41
+Bachelors ,Data Analyst,501
+Bachelors ,Data Engineer,134
+Bachelors ,Data Scientist,648
+Bachelors ,Machine Learning Engineer,350
+Bachelors ,Other,515
+Bachelors ,Product/Project Manager,180
+Bachelors ,Research Scientist,67
+Bachelors ,Software Engineer,842
+Bachelors ,Statistician,67
+Bachelors ,Student,2580
+Doctoral ,Business Analyst,37
+Doctoral ,Unemployed currently,119
+Doctoral ,DBA/Database Engineer,6
+Doctoral ,Data Analyst,77
+Doctoral ,Data Engineer,40
+Doctoral ,Data Scientist,458
+Doctoral ,Machine Learning Engineer,148
+Doctoral ,Other,222
+Doctoral ,Product/Project Manager,53
+Doctoral ,Research Scientist,687
+Doctoral ,Software Engineer,100
+Doctoral ,Statistician,80
+Doctoral ,Student,257
+Unanswered,Business Analyst,15
+Unanswered,Unemployed currently,68
+Unanswered,DBA/Database Engineer,7
+Unanswered,Data Analyst,29
+Unanswered,Data Engineer,12
+Unanswered,Data Scientist,36
+Unanswered,Machine Learning Engineer,22
+Unanswered,Other,31
+Unanswered,Product/Project Manager,10
+Unanswered,Research Scientist,15
+Unanswered,Software Engineer,41
+Unanswered,Student,92
+Masters ,Business Analyst,424
+Masters ,Unemployed currently,587
+Masters ,DBA/Database Engineer,55
+Masters ,Data Analyst,715
+Masters ,Data Engineer,215
+Masters ,Data Scientist,1369
+Masters ,Machine Learning Engineer,471
+Masters ,Other,764
+Masters ,Product/Project Manager,371
+Masters ,Research Scientist,337
+Masters ,Software Engineer,759
+Masters ,Statistician,115
+Masters ,Student,1581
+High_School,Business Analyst,15
+High_School,Unemployed currently,31
+High_School,DBA/Database Engineer,2
+High_School,Data Analyst,14
+High_School,Data Engineer,2
+High_School,Data Scientist,15
+High_School,Machine Learning Engineer,10
+High_School,Other,31
+High_School,Product/Project Manager,7
+High_School,Research Scientist,5
+High_School,Software Engineer,29
+High_School,Statistician,2
+High_School,Student,66
+Professional ,Business Analyst,50
+Professional ,Unemployed currently,48
+Professional ,DBA/Database Engineer,8
+Professional ,Data Analyst,70
+Professional ,Data Engineer,13
+Professional ,Data Scientist,86
+Professional ,Machine Learning Engineer,27
+Professional ,Other,96
+Professional ,Product/Project Manager,45
+Professional ,Research Scientist,54
+Professional ,Software Engineer,88
+Professional ,Statistician,15
+Professional ,Student,86
+College,Business Analyst,22
+College,Unemployed currently,93
+College,DBA/Database Engineer,6
+College,Data Analyst,69
+College,Data Engineer,21
+College,Data Scientist,64
+College,Machine Learning Engineer,54
+College,Other,78
+College,Product/Project Manager,26
+College,Research Scientist,9
+College,Software Engineer,109
+College,Statistician,11
+College,Student,509
